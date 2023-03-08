@@ -9,9 +9,9 @@
        <section><label>[shift+Z] also hides Menu</label></section> 
        <section><label>&nbsp;</label></section>
        <section><label>Answer: [<label id="ans1">...</label>]</label></section>
-       <section><label>Next Awnser: [<label id="ans2"></label>]</label></section>
+       <section><label>Next Answer: [<label id="ans2"></label>]</label></section>
        <section><label>&nbsp;</label></section>
-       <section><label>Muti-select awnsers</label></section> 
+       <section><label>Muti-select answers</label></section> 
         <section><label id="ans3text">Dropdown 1: [<label id="ans3">...</label>]</label></section>
         <section><label id="ans4text">Dropdown 2: [<label id="ans4">...</label>]</label></section>
         <section><label id="ans5text">Dropdown 3: [<label id="ans5">...</label>]</label></section>
@@ -35,7 +35,7 @@ section {
    display: flex;
    justify-content: space-between;margin:5px;}
 .ou {
-   background-color: darkslategray;
+   background-color: gray;
    letter-spacing: 2px;
    font-weight: none;
    font-size: 11px;
